@@ -140,7 +140,15 @@ Javascript debugging tools have improved significantly over the last few years. 
 
 ## Practice
 Lets debug some JavaScript!
-First we will do it together, than we you can do it on your own.
+
+Clone this repo, and crack open the buggy-script folder in your text editor.
+In your terminal from inside this repo type
+`open buggy-script/index.html`
+to open it in your default browser (should be Chrome)
+
+Start in the console and look for error messages.
+
+Use breakpoints, the `debugger` keyword, and anything else we learned to get this code working!
 
 ## Additional Resources
 - [A youtube tutorial going over this same stuff](https://www.youtube.com/watch?v=htZAU7FM7GI)
